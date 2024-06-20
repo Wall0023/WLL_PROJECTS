@@ -1,0 +1,5 @@
+Dados da aplicação:
+Automação de unidades em larga escala por meio do uso de loops.
+
+Situação:
+Será necessário cadastrar todos os leitos de um determinado hospital dentro da base de dados. Se houver mais de 300 leitos, cadastrando tudo à mão, levaria em média umas 2 ou 3 horas. No entanto, utilizando a aplicação, a tarefa levaria em torno de 3 min.
