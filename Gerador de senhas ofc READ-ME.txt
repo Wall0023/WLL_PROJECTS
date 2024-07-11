@@ -1,0 +1,11 @@
+Title: Gerador de senhas seguras e genérico
+
+Describe: Gerador de senhas autônomo feito para gerir senhas únicas e seguras para uso de cadastro em inúmeras plataformas dentro da internet
+
+Requisitos: Será necessário possuir em seu desktop o interpretador python(última atualização conhecida).
+
+Funcionabilidade: Ao iniciar o arquivo, uma tela será exibida com uma senha. Se por algum acaso não estiver satisfeito com sua senha, basta clicar no botão "gerar nova senha" para gerar uma nova senha.
+
+Situação exemplo: A maioria das pessoas para não esquecer da senha que utiliza, busca criar padrões em suas senhas de: banco, tv por assinatura, redes sociais, sites de demais serviços e mais. Repetir padrões significa facilitar a quebra do sigilo de sua senha, tais como: "mudar123", "mudar321", "mudar312"... Esse mesmo tipo de senha ja foi usada mais de 28342 vezes em um banco de dados de senha vazadas.
+
+Creditos: Utilizei das bibliotecas "Random" e "Tkinter". Escolhi criar esta aplicação como forma de gerar senhas seguras com um alto padrão de dificuldade sem precisar pensar demais na senha que irei colocar em determinado local. Particurlamente, antes de ter ciência dos elementos que tornam a senha mais segura, foram mais de 15 tentativas para tentar criar uma senha obedecendo o padrão de um determinado site. Hoje não há tanta dificuldade em criar uma senha segura, não precisando de uma aplicação como esta para ser usada frequentemente. No entanto, todos os conhecimentos aplicados neste software, demonstram o nível de minha habilidade na criação de aplicações diversas, artifícios como: funções, importação de bibliotecas, formatação de variaveis e mais.
